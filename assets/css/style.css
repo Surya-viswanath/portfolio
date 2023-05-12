@@ -1117,11 +1117,7 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
-@media (max-width: 992px){
-  .button{
-    display: none;
-  }
-}
+
 
 
 
